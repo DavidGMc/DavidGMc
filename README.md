@@ -1,7 +1,9 @@
 ### Desarrollador Android Junior 👋
+![Banner de tu perfil](https://user-images.githubusercontent.com/23423226/278517370-10f8c994-c443-427d-9236-8f25b25a903d.png)
 
 <!--
 **DavidGMc/DavidGMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
