@@ -10,8 +10,7 @@ Soy un entusiasta de la tecnología con un enfoque en el desarrollo de aplicacio
 - Diseño de interfaces de usuario atractivas.
 - Implementación de patrones de arquitectura como MVVM.
 - Consumo de servicios web y APIs.
-- Uso de lenguaje Kotlin.
-- 
+- Uso de lenguaje Kotlin. 
 
 ## Contacto
 
@@ -20,7 +19,7 @@ Soy un entusiasta de la tecnología con un enfoque en el desarrollo de aplicacio
 
 ## Tecnologías  
 
-- (https://kotlinlang.org/docs/images/kotlin-logo.png) Kotlin
+- [(https://kotlinlang.org/docs/images/kotlin-logo.png)] Kotlin
 - Android Studio
 - XML
 - MVVM
@@ -28,5 +27,5 @@ Soy un entusiasta de la tecnología con un enfoque en el desarrollo de aplicacio
 - firebase
 - Room
 - Git
-- 
+    
 **¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si te gustaría trabajar juntos en un proyecto emocionante.**
