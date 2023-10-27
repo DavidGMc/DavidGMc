@@ -14,7 +14,7 @@ Soy un entusiasta de la tecnología con un enfoque en el desarrollo de aplicacio
 
 ## Contacto
 
-- **Email:** [correo electrónico](contact@androidavid.com)
+- **Email:** [correo electrónico](mailto:contact@androidavid.com)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cdavid-gonzalez/)  
 
 ## Tecnologías  
