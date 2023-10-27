@@ -1,18 +1,32 @@
 ### Desarrollador Android Junior 👋
 ![Banner de tu perfil](https://user-images.githubusercontent.com/23423226/278517370-10f8c994-c443-427d-9236-8f25b25a903d.png)
 
-<!--
-**DavidGMc/DavidGMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+Soy un entusiasta de la tecnología con un enfoque en el desarrollo de aplicaciones Android nativas. Mi objetivo es crear experiencias de usuario excepcionales a través de diseños intuitivos y código limpio.
 
+## Habilidades
 
-Here are some ideas to get you started:
+- Desarrollo de aplicaciones nativas para Android.
+- Diseño de interfaces de usuario atractivas.
+- Implementación de patrones de arquitectura como MVVM.
+- Consumo de servicios web y APIs.
+- Uso de lenguaje Kotlin.
+- 
 
-- 🔭 Desarrollador Android Junior
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+
+- **Email:** [correo electrónico](contact@androidavid.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cdavid-gonzalez/)  
+
+## Tecnologías  
+
+- (https://kotlinlang.org/docs/images/kotlin-logo.png) Kotlin
+- Android Studio
+- XML
+- MVVM
+- Retrofit
+- firebase
+- Room
+- Git
+- 
+**¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si te gustaría trabajar juntos en un proyecto emocionante.**
