@@ -1,5 +1,5 @@
 ### Desarrollador Android  👋
-![Banner de tu perfil]((https://github.com/DavidGMc/DavidGMc/assets/23423226/852bc0a0-844b-4270-b6c2-9729dcf4d21e)
+![Banner de tu perfil](https://github.com/DavidGMc/DavidGMc/assets/23423226/852bc0a0-844b-4270-b6c2-9729dcf4d21e)
 
 ## Acerca de Mí
 Soy un entusiasta de la tecnología con un enfoque en el desarrollo de aplicaciones Android nativas. Mi objetivo es crear experiencias de usuario excepcionales a través de diseños intuitivos y código limpio.
