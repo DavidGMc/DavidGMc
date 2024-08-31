@@ -7,7 +7,7 @@ Soy un entusiasta de la tecnología con un enfoque en el desarrollo de aplicacio
 ## Habilidades
 
 - Desarrollo de aplicaciones nativas para Android.
-- Diseño de interfaces de usuario atractivas.
+- Diseño de interfaces de usuario atractivas con xml
 - Implementación de patrones de arquitectura como MVVM.
 - Consumo de servicios web y APIs.
 - Uso de lenguaje Kotlin. 
